@@ -1,6 +1,10 @@
 # ENDPOINT-JAVA
 ENDPOINT JAVA - MONGODB - MAVEN - SPRING     (POSTMAN --> Requisições)
 
+### Para Rodar o Projeto - https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse --> TUTORIAL CLONAR PROJETO NO ECLIPSE (JAVA)
+### Rodar com Spring Boot App -https://spring.io/guides/gs/spring-boot/ --> Tutorial de iniciar projeto com Spring Boot
+
+
 :telephone:
 Tal Algoritmo, possue conexão com banco de dados MONGODB, onde registra tabela de FOLHA DE PAGAMENTOS, com dados do FUNCIONARIO
 
@@ -13,8 +17,9 @@ Utilizar certos 'Designer Patterns, para facilitar a implementação de serviço
 Exemplo na aplicação: Padrão de Interface e Polimorfismo
 
 :orange_book:
-Possível Designer Patter a se adotar com extensão da aplicação, como exemplo uma fábrica de funcionários e suas respectivas folhas de pagamento
-####Factory Method
+Possível Designer Pattern a se adotar com extensão da aplicação, como exemplo uma fábrica de funcionários e suas respectivas folhas de pagamento:
+
+###Factory Method
 
 :question:
 A imagem abaixo é um exemplo de uma rota com restrição de idade, aplicado no postman (payload) para validar requisições com este ENDPOINT
